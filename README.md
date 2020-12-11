@@ -1,7 +1,6 @@
 # countdown_new
 
-A new Flutter project.
-
+A CountDown with a new method with taking help from Pub.dev
 ## Getting Started
 
 This project is a starting point for a Flutter application.
